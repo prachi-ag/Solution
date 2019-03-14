@@ -1,0 +1,7 @@
+Please install these in a separate virtual env
+Django	2.1.7	
+pip	10.0.1	
+pytz	2018.9	
+setuptools 39.1.0
+
+#This ToDo App has been made referring the youtube tutorials	
